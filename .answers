@@ -1,5 +1,0 @@
-Represents a part of the HTML document used as a main header; often containing main document headings (h1-h6 or logo graphics)
-Represents a section of the HTML document used as finishing section; A footer typically contains information about its section(s) above such as who wrote it, links to related documents, copyright data, and the like.
-Represents a section of the HTML document that contains the main navigation for the site.
-This element divides your content into sections. Each section can cover different topics either related or non-related to the other sections.
-TRUE
