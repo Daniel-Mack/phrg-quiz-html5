@@ -39,4 +39,4 @@
 
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/quiz-html5' title='HTML5 Quiz'>HTML5 Quiz</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML5</p>
